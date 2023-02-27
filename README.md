@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Sharat Rokkam</h1>
 <h3 align="center">Full Stack Developer, Learner, Teacher</h3>
-<img src='https://miro.medium.com/v2/resize:fit:828/1*uoUra4LLjZqtkMH4RUeRmw.gif' alt='animatedcoding' width='600px' align='center' />
+<img src='https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif' alt='animatedcoding' width='600px' align='right' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharatrokkam&label=Profile%20views&color=0e75b6&style=flat" alt="sharatrokkam" /> </p>
 
