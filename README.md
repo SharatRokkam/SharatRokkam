@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **rokkamsharath1@gmail.com**
+- 📫 How to reach me **rokkamsharat22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
