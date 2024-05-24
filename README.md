@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Sharat Rokkam</h1>
-<h3>Full Stack Developer, Learner, Instructor</h3>
+<h3>Software Developer, Learner,Technical Instructor, Mentor, Comrade</h3>
 <img src='https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif' alt='animatedcoding' width='600px' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharatrokkam&label=Profile%20views&color=0e75b6&style=flat" alt="sharatrokkam" /> </p>
